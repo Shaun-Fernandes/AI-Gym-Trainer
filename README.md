@@ -1,5 +1,5 @@
 # AI-Gym-Trainer
-An application that uses [OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) to assist with Gym Exercises
+An application that uses [OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) to assist with Gym Exercises 
 
 ## Motivation
 
